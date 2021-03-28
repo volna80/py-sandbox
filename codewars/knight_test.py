@@ -1,6 +1,6 @@
 import codewars_test as test
-from codewars.Solution_check_and_mate import isCheck
-from codewars.Solution_check_and_mate import isMate
+from codewars.knight_check_and_mate import isCheck
+from codewars.knight_check_and_mate import isMate
 
 pieces = [
   {'x': 4, 'y': 0, 'owner': 1, 'piece': 'king'},
